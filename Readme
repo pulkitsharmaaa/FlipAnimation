@@ -1,0 +1,11 @@
+Steps to run this project:
+1. Clone this project
+2. run 'npm install' command
+3. run 'npm start -- --reset-cache' first you need to run this command after that you can use 'npx react-native run-android' or 'npx react-native start'
+You are all set to run this project
+
+
+Suggestion:
+1. used reanimated version "3.4.1" //there were few issues in the reanimated version "3.4.0" like 
+   "Error while updating property 'transform' of a view managed by: RCTView, js engine: reanimated"
+    i.e reanimated version "3.4.1" is recommended specially for the windows users.
