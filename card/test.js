@@ -1,3 +1,6 @@
+// this code is used for testing different approch. we are not using this file in our peoject.
+// ignore
+
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
 import React from 'react';
